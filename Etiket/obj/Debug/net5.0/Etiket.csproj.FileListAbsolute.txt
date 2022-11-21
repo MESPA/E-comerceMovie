@@ -1,0 +1,457 @@
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.AssemblyReference.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.AssemblyInfoInputs.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.AssemblyInfo.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.CoreCompileInputs.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.MvcApplicationPartsAssemblyInfo.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorAssemblyInfo.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorAssemblyInfo.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/appsettings.Development.json
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/appsettings.json
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.deps.json
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.runtimeconfig.json
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.runtimeconfig.dev.json
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.pdb
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.Views.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.Views.pdb
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySqlConnector.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/scopedcss/bundle/Etiket.styles.css
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/staticwebassets/Etiket.StaticWebAssets.Manifest.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.TagHelpers.input.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.TagHelpers.output.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorCoreGenerate.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorTargetAssemblyInfo.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorTargetAssemblyInfo.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.Views.pdb
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.CopyComplete
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/refint/Etiket.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.pdb
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.genruntimeconfig.cache
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/ref/Etiket.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Humanizer.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySql.Data.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ZstdNet.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Index.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Index.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Index.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Movies/Index.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.MvcApplicationPartsAssemblyInfo.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Create.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Details.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Edit.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Delete.cshtml.g.cs
+/Users/manuel/Desktop/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/NotFound.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/appsettings.Development.json
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/appsettings.json
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.deps.json
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.runtimeconfig.json
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.runtimeconfig.dev.json
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.pdb
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.Views.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.Views.pdb
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Humanizer.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySql.Data.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ZstdNet.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySqlConnector.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.AssemblyReference.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.AssemblyInfoInputs.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.AssemblyInfo.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.CoreCompileInputs.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.MvcApplicationPartsAssemblyInfo.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.MvcApplicationPartsAssemblyInfo.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorAssemblyInfo.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorAssemblyInfo.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/scopedcss/bundle/Etiket.styles.css
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/staticwebassets/Etiket.StaticWebAssets.Manifest.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.TagHelpers.input.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.TagHelpers.output.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorCoreGenerate.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Create.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Delete.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Details.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Edit.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Movies/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/NotFound.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorTargetAssemblyInfo.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorTargetAssemblyInfo.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.Views.pdb
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.CopyComplete
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/refint/Etiket.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.pdb
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.genruntimeconfig.cache
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/ref/Etiket.dll
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Create.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Delete.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Details.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Edit.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Create.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Delete.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Details.cshtml.g.cs
+/Users/manuel/Downloads/proyectos del escritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Edit.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/appsettings.Development.json
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/appsettings.json
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.deps.json
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.runtimeconfig.json
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.runtimeconfig.dev.json
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.pdb
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.Views.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Etiket.Views.pdb
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Google.Protobuf.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Humanizer.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Compression.LZ4.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/K4os.Hash.xxHash.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySql.Data.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Ubiety.Dns.Core.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ZstdNet.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySql.EntityFrameworkCore.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/MySqlConnector.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/BouncyCastle.Crypto.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.AssemblyReference.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.AssemblyInfoInputs.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.AssemblyInfo.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.CoreCompileInputs.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.MvcApplicationPartsAssemblyInfo.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.MvcApplicationPartsAssemblyInfo.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorAssemblyInfo.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorAssemblyInfo.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/scopedcss/bundle/Etiket.styles.css
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/staticwebassets/Etiket.StaticWebAssets.Manifest.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.TagHelpers.input.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.TagHelpers.output.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorCoreGenerate.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Create.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Delete.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Details.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Edit.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Actors/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Create.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Delete.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Details.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Edit.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Cinemas/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Movies/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Create.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Delete.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Details.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Edit.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Producers/Index.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/NotFound.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorTargetAssemblyInfo.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.RazorTargetAssemblyInfo.cs
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.Views.pdb
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.csproj.CopyComplete
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/refint/Etiket.dll
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.pdb
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/Etiket.genruntimeconfig.cache
+/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/obj/Debug/net5.0/ref/Etiket.dll

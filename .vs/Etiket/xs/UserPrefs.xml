@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{5BF43471-058B-4603-B4C8-269294B67E7E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Etiket/Views/Cinemas/Edit.cshtml">
+    <Files>
+      <File FileName="Etiket/Controllers/CinemasController.cs" Line="72" Column="89" />
+      <File FileName="Etiket/Models/Cinema.cs" Line="14" Column="34" />
+      <File FileName="Etiket/Models/Prodecer.cs" Line="1" Column="1" />
+      <File FileName="Etiket/Views/Cinemas/Edit.cshtml" Line="22" Column="45" />
+      <File FileName="Etiket/Controllers/ProducersController.cs" Line="1" Column="1" />
+      <File FileName="Etiket/Views/Actors/Edit.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Etiket" expanded="True">
+            <Node name="Etiket" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Actors" expanded="True" />
+                <Node name="Cinemas" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/manuel/Downloads/proyectosdelescritorio/Aspnetcore/etiketmvc/Etiket/Etiket/Controllers/CinemasController.cs" relfile="Etiket/Controllers/CinemasController.cs" line="73" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Etiket PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
